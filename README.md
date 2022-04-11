@@ -1,6 +1,8 @@
 
 **#CCOE-TEST**
 
+I have create 3 separate branches inside this repository to store the configuration files for each task.
+
 Please Download the [repository](https://github.com/Chranjith-13/ccoe-test.git) to verify the Assignments.
 
 **For the Assignment task 1**: I went with terraform and created a script file for provisioning the resources required for a 3 tier architecture in AWS cloud.
