@@ -25,7 +25,7 @@ The  `terraform plan`  command creates and shows Terraform's execution plan. If 
 To look at the execution plan, run:
 
 ```
-cd ccoe-test/
+cd ccoe-test/3-tier-architecture
 terraform init
 terraform plan --var-file=your-variable file name
 
