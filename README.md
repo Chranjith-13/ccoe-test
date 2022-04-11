@@ -1,7 +1,7 @@
 
 **#CCOE-TEST**
 
-I have create 3 separate branches inside this repository to store the configuration files for each task.
+I have created 3 separate branches inside this repository to store the configuration files for each task.
 
 Please Download the [repository](https://github.com/Chranjith-13/ccoe-test.git) to verify the Assignments.
 
